@@ -1,0 +1,19 @@
+{
+  "name": "discord-bot",
+  "version": "1.0.0",
+  "description": "A simple Discord bot built with Node.js",
+  "main": "src/bot.js",
+  "scripts": {
+    "start": "node src/bot.js"
+  },
+  "dependencies": {
+    "canvas": "^3.1.0",
+    "discord.js": "^14.18.0",
+    "dotenv": "^10.0.0",
+    "fs": "^0.0.1-security",
+    "mongoose": "^8.13.2",
+    "node-cron": "^3.0.3"
+  },
+  "author": "Your Name",
+  "license": "MIT"
+}
